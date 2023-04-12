@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Nith"
+  given-names: "Romain"
+- family-names: "Jacob"
+  given-names: "Serfaty"
+- family-names: "Samuel"
+  given-names: "Shatzkin"
+- family-names: "Alen"
+  given-names: "Shen"
+- family-names: "Lopes"
+  given-names: "Pedro"
+title: "JumpMod"
+version: 1.0.0
+doi: 10.1145/3544548.3580764
+date-released: 2023-04-24
+url: "https://github.com/humancomputerintegration/JumpMod"
