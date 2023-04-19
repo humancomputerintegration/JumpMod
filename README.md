@@ -2,7 +2,9 @@
 
 This is the repository for PCB schematics, Arduino code and hardware design files used to build the haptic backpack the "JumpMod: Haptic Backpack that Modifies Users’ Perceived Jump" paper (ACM CHI2023).
 
-# Part for each assembly:
+For more information, please refer to our paper: http://lab.plopes.org/#JumpMod
+
+# parts for each assembly:
 
 | **Item**                                      | **Qty** | **Exemplary link**                                                                                                                                                                                                                                        | **Approx. unit cost (in USD)** |
 | --------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
@@ -46,7 +48,14 @@ This is the repository for PCB schematics, Arduino code and hardware design file
 | Battery box corner bracket                    | 8       | 3D printed                                                                                                                                                                                                                                                |                                |
 | Anti-spark power switch                       | 1       | [Amazon link](https://www.amazon.com/DIYE-Electric-Skateboard-Anti-Spark-Longboard/dp/B07MTLV55T/ref=sr_1_4?keywords=anti+spark+switch&qid=1656348713&sprefix=antispark+,aps,80&sr=8-4)                                                                   | 47.99                          |
 
-## Notes:
+## notes:
 1.	Battery cells were taken from a pre-assembled battery.
 2.	2mm waterjet aluminum was used to encase the battery for all sides except the top panel, which was laser cut with 3mm acrylic.
-![image](https://user-images.githubusercontent.com/6421754/232943599-ecb1b6d1-94ff-455e-af20-a51b995d5408.png)
+
+# citing
+When using or building upon this device in an academic publication, please consider citing as follows:
+
+Romain Nith, Jacob Serfaty, Samuel G Shatzkin, Alan Shen, and Pedro Lopes. 2023. JumpMod: Haptic Backpack that Modifies Users' Perceived Jump. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI’23), April 23–28, 2023, Hamburg, Germany. ACM, NewYork,  NY, USA, 15 pages. https://doi.org/10.1145/3544548.3580764
+
+# contact
+For any questions about this repository, please contact rnith@uchicago.edu
