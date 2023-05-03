@@ -4,7 +4,7 @@ This is the repository for PCB schematics, Arduino code and hardware design file
 
 For more information, please refer to our paper: http://lab.plopes.org/#JumpMod
 
-# parts for each assembly:
+# parts for each assembly
 
 | **Item**                                      | **Qty** | **Exemplary link**                                                                                                                                                                                                                                        | **Approx. unit cost (in USD)** |
 | --------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
@@ -48,7 +48,7 @@ For more information, please refer to our paper: http://lab.plopes.org/#JumpMod
 | Battery box corner bracket                    | 8       | 3D printed                                                                                                                                                                                                                                                |                                |
 | Anti-spark power switch                       | 1       | [Amazon link](https://www.amazon.com/DIYE-Electric-Skateboard-Anti-Spark-Longboard/dp/B07MTLV55T/ref=sr_1_4?keywords=anti+spark+switch&qid=1656348713&sprefix=antispark+,aps,80&sr=8-4)                                                                   | 47.99                          |
 
-## notes:
+## notes
 1.	Battery cells were taken from a pre-assembled battery.
 2.	2mm waterjet aluminum was used to encase the battery for all sides except the top panel, which was laser cut with 3mm acrylic.
 
