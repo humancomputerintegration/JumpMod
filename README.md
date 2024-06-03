@@ -1,10 +1,14 @@
 # JumpMod: Haptic Backpack that Modifies Users’ Perceived Jump
 
-This is the repository for PCB schematics, Arduino code and hardware design files used to build the haptic backpack the "JumpMod: Haptic Backpack that Modifies Users’ Perceived Jump" paper (ACM CHI2023).
+This is the repository for PCB schematics, Arduino code and hardware design files used to build the haptic backpack the "JumpMod: Haptic Backpack that Modifies Users’ Perceived Jump" paper (ACM CHI2023) by Romain Nith, Jacob Serfaty, Samuel Shatzkin, Alan Shen, and Pedro Lopes.
 
 For more information, please refer to our paper: http://lab.plopes.org/#JumpMod
 
+![1_teaser](images/1_teaser.jpg)
+
 # parts for each assembly
+
+![Implementation](images/Implementation.jpg)
 
 | **Item**                                      | **Qty** | **Exemplary link**                                                                                                                                                                                                                                        | **Approx. unit cost (in USD)** |
 | --------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
